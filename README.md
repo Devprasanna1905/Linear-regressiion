@@ -1,1 +1,1 @@
-# Linear-regressiion
+# Linear-regression
